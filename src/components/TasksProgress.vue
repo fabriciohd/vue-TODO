@@ -41,8 +41,13 @@ export default {
    }
 
    @media only screen and (max-width: 400px) {
-       .progress-value {
-           font-size: 1rem;
+       .tasks-progress {
+           height: 30px;
        }
+
+       .progress-value {
+        z-index: 1;
+        font-size: 1rem;
+   }
    }
 </style>
