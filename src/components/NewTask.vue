@@ -48,4 +48,13 @@ export default {
        border-top-right-radius: 8px;
        border-bottom-right-radius: 8px;
    }
+
+   @media only screen and (max-width: 400px) {
+       .new-task {
+            margin: 35px 0;
+       }
+       input.form-element {
+           max-width: 240px;
+       }
+   }
 </style>
