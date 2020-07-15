@@ -1,4 +1,8 @@
-# todo
+# TODO
+```
+Uma simples lista de tarefas!
+
+```
 
 ## Project setup
 ```
