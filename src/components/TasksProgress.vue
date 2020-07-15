@@ -36,7 +36,13 @@ export default {
    }
 
    .progress-value {
-       z-index: 1;
+        z-index: 1;
         font-size: 1.5rem;
+   }
+
+   @media only screen and (max-width: 400px) {
+       .progress-value {
+           font-size: 1rem;
+       }
    }
 </style>
