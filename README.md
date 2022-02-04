@@ -1,6 +1,7 @@
 # TODO
 ```
 Uma simples lista de tarefas!
+Tecnologia: Javascript/VueJS
 
 ```
 
